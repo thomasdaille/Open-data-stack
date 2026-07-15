@@ -4,11 +4,11 @@ This repository show a complete open-source and **local ELT data stack** built w
 
 The stack integrates the following components:
 
-- Airbyte — ingestion pipelines  
-- Postgres — data warehouse
-- DBT — transformations, modeling, testing, documentation  
-- Metabase — analytics & dashboards  
-- OpenMetadata — governance, lineage, data quality  
+- [Airbyte](https://airbyte.com/) — ingestion pipelines  
+- [Postgres](https://www.postgresql.org/) — data warehouse
+- [DBT](https://www.getdbt.com/) — transformations, modeling, testing, documentation  
+- [Metabase](https://www.metabase.com/) — analytics & dashboards  
+- [OpenMetadata](https://open-metadata.org/) — governance, lineage, data quality  
 
 ---
 
@@ -28,6 +28,10 @@ This layered architecture enables:
 - consistent analytical exposure for Metabase  
 
 ---
+
+## 📃 Data sources
+
+[...]
 
 ## 🧠 DBT Modeling Structure
 
