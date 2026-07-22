@@ -1,0 +1,8 @@
+pays_code,pays_libelle,pays_code_iso2,pays_code_iso3,pays_nationalite,date_creation,date_derniere_modification
+CH,Suisse,CH,CHE,Suisse,2025-01-01 00:00:00,2025-01-01 00:00:00
+FR,France,FR,FRA,Française,2025-01-01 00:00:00,2025-01-01 00:00:00
+IT,Italie,IT,ITA,Italienne,2025-01-01 00:00:00,2025-01-01 00:00:00
+DE,Allemagne,DE,DEU,Allemande,2025-01-01 00:00:00,2025-01-01 00:00:00
+ES,Espagne,ES,ESP,Espagnole,2025-01-01 00:00:00,2025-01-01 00:00:00
+GB,Royaume-Uni,GB,GBR,Britannique,2025-01-01 00:00:00,2025-01-01 00:00:00
+US,États-Unis,US,USA,Américaine,2025-01-01 00:00:00,2025-01-01 00:00:00

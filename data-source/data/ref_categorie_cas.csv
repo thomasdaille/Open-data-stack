@@ -1,0 +1,6 @@
+categorie_cas_code,type_cas_code,categorie_cas,date_creation,date_derniere_modification
+AP,A,Ambul. aigu (psychiatrie),2025-01-01 00:00:00,2025-01-01 00:00:00
+AS,A,Ambul. aigu (somatique),2025-01-01 00:00:00,2025-01-01 00:00:00
+NN,S,Nouveau-né,2025-01-01 00:00:00,2025-01-01 00:00:00
+HP,S,Hosp. aigu (psychiatrie),2025-01-01 00:00:00,2025-01-01 00:00:00
+HS,S,Hosp. aigu (somatique),2025-01-01 00:00:00,2025-01-01 00:00:00

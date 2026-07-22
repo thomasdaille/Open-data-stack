@@ -1,0 +1,12 @@
+unite_code,unite_libelle,type_unite,date_creation,date_derniere_modification
+CHIR,Chirurgie,somatique,2025-01-01 00:00:00,2025-01-01 00:00:00
+ORTHO,Orthopédie,somatique,2025-01-01 00:00:00,2025-01-01 00:00:00
+NEPH,Néphrologie,somatique,2025-01-01 00:00:00,2025-01-01 00:00:00
+CARDIO,Cardiologie,somatique,2025-01-01 00:00:00,2025-01-01 00:00:00
+ONCO,Oncologie,somatique,2025-01-01 00:00:00,2025-01-01 00:00:00
+PED,Pédiatrie,somatique,2025-01-01 00:00:00,2025-01-01 00:00:00
+PSY,Psychiatrie,psychiatrie,2025-01-01 00:00:00,2025-01-01 00:00:00
+GER,Gériatrie,somatique,2025-01-01 00:00:00,2025-01-01 00:00:00
+URGEN,Urgences,somatique,2025-01-01 00:00:00,2025-01-01 00:00:00
+REHAB,Rééducation,somatique,2025-01-01 00:00:00,2025-01-01 00:00:00
+OBST,Obstétrique,somatique,2025-01-01 00:00:00,2025-01-01 00:00:00
