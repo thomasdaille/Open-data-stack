@@ -39,6 +39,8 @@ This dataset is generated using the Python and produces a set of CSV.
 
 [...]
 
+DBT is an SQL transformation orchestrator based on a dependency graph.
+
 ---
 
 ## 📊 Metabase Dashboards
