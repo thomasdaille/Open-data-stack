@@ -31,7 +31,9 @@ This layered architecture enables:
 
 ## 📃 Data sources
 
-[...]
+The project uses a fully synthetic hospital OLTP dataset, designed to simulate the operational data of a healthcare organisation.
+
+This dataset is generated using the Python and produces a set of CSV.
 
 ## 🧠 DBT Modeling Structure
 
