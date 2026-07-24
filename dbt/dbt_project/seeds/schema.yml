@@ -1,0 +1,11 @@
+version: 2
+
+seeds:
+  - name: ref_categorie_cas
+    description: "Données brutes clients chargées via seed"
+  - name: ref_confession
+    description: "Données brutes produits"
+  - name: ref_etablissement
+    description: "Données brutes ventes"
+  - name: ref_etat_civil
+    description: "Données brutes ventes"
